@@ -1,0 +1,10 @@
+cd ~ (go to home directory)
+mkdir github_repos (create a new folder named github_repos)
+cd github_repos (go to that github_repos)
+git clone <<https_path_ to_github_repo> ( clone the github repo)
+cd < name_of_repo> ( go to the repository)
+
+
+if you did all correlctly
+
+ls -la (making sure about what you did)
