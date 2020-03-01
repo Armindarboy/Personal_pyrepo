@@ -1,0 +1,20 @@
+
+use TAB to auto compelete 
+
+mkdir
+ls
+ls- la
+cd 
+cd.. ( go back to the previous folder)
+cd ~ ( go to home director --> c/user/<name>/)
+cat <file_name> (show what is in the file)
+pwd (print working directroy)
+clear
+ll ( like ls but nicer)
+
+git status ( show the status of your git repo) 
+
+git commit -m "<commit_massahe>"
+git add. ( add all thechanges. unstaged changes---> staged changes)
+git config --list (gives you information)
+
